@@ -26,5 +26,13 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byldd/expo-google-signin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byldd/expo-google-signin/issues"
+  },
+  "homepage": "https://github.com/byldd/expo-google-signin#readme"
 }
