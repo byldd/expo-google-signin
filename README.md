@@ -1,6 +1,6 @@
 # @byldd/expo-google-signin
 
-This README provides a step-by-step guide to set up Google Sign-In for React Native projects using the **@byldd/expo-google-signin** package.
+This README provides a step-by-step guide to set up Google Sign-In for Expo projects using the **@byldd/expo-google-signin** package.
 
 ---
 
@@ -9,7 +9,7 @@ This README provides a step-by-step guide to set up Google Sign-In for React Nat
 ### **1. Create a New Expo Project**
 Run the following command to create a new Expo project:
 ```bash
-expo init your-project-name
+npx create-expo-app@latest
 ```
 
 ---
