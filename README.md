@@ -128,4 +128,4 @@ const handleGoogleSignin = async (webClientId: string) => {
 
 With these steps, you should be able to successfully set up Google Sign-In in your React Native project using the **@byldd/expo-google-signin** package.
 
-# expo-google-signin
+# @byldd/expo-google-signin
